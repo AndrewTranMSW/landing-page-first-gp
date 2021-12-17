@@ -1,3 +1,70 @@
 * {
-    background-color: aqua;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: seagreen;
+  text-align: right;
+  font-size: 20px;
+  height: 25px;
+  border-bottom: solid 10px black;
+
+}
+
+section {
+  background-color: red;
+  border-top: solid 10px black;
+}
+
+footer {
+  background-color: blue;
+}
+
+li {
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 0px;
+  border: solid white;
+}
+
+h1,
+h2,
+img,
+figcaption {
+  padding: 10px 10px 10px 10px;
+}
+
+input {
+  padding: 0 0 10px 0;
+}
+
+form {
+  border: solid 5px black;
+  border-radius: 20px 0;
+  margin: 0 850px;
+}
+
+button {
+  margin: 10px 10px 10px 10px;
+  background-color: yellow;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+a {
+  color: tomato;
 }
